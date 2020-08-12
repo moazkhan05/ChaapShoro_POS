@@ -1,0 +1,42 @@
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AddItemDetails.resources
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.POS.resources
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ChapShoroApp.resources
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.UpdateItemDetails.resources
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\CHAAP_SHORO_POS.csproj.GenerateResource.Cache
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\CHAAP_SHORO_POS.csprojResolveAssemblyReference.cache
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.SaleReport.resources
+D:\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Expenses.resources
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\CHAAP_SHORO_POS.csprojResolveAssemblyReference.cache
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AddItemDetails.resources
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Expenses.resources
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.POS.resources
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ChapShoroApp.resources
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.SaleReport.resources
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.UpdateItemDetails.resources
+D:\SQA\New folder (2)\maaz\new version\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\CHAAP_SHORO_POS.csproj.GenerateResource.Cache
+D:\ChapShoro\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\ChapShoro\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\ChapShoro\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\ChapShoro\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\ChapShoro\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\ChapShoro\WindowsFormsApplication2\obj\x86\Debug\CHAAP_SHORO_POS.csprojResolveAssemblyReference.cache
+D:\ChapShoro\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.AddItemDetails.resources
+D:\ChapShoro\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Expenses.resources
+D:\ChapShoro\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.POS.resources
+D:\ChapShoro\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\ChapShoro\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ChapShoroApp.resources
+D:\ChapShoro\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.SaleReport.resources
+D:\ChapShoro\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.UpdateItemDetails.resources
+D:\ChapShoro\WindowsFormsApplication2\obj\x86\Debug\CHAAP_SHORO_POS.csproj.GenerateResource.Cache
